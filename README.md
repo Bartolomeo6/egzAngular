@@ -1,2 +1,2 @@
 # egzAngular
-07.04 - rozwiąż problem z checkbox 
+07.04 - GALERIA ZDJĘĆ (regulacja checkbox)
